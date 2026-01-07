@@ -1,5 +1,9 @@
-# DS-Project
-#Trader Behavior Insights
+# DS-Project Task
+#Trader Behavior Insights - objective is to explore the relationship between trader performance and market 
+#sentiment, uncover hidden patterns, and deliver insights that can drive smarter trading 
+#strategies.
+
+
 import pandas as pd
 import numpy as np
 
